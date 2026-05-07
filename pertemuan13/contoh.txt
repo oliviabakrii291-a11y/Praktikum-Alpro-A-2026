@@ -1,0 +1,11 @@
+Halo
+Nama : Olivia Bakri
+
+#relative
+pertemuan13\contoh.txt
+
+#path
+C:\Users\Modern 14\Praktikum-Alpro-A-2026\pertemuan13\contoh.txt
+
+
+NIM : 25071103083
